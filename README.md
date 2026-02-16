@@ -1,44 +1,76 @@
 <h1 align="center">Hi 👋, I'm Saravanakumar S</h1>
-<h3 align="center">Full Stack Developer | React | Node | .NET | Java </h3>
+<h3 align="center">Java Full Stack Developer | React | Spring Boot | Node.js | .NET</h3>
+
+<p align="center">
+  I build scalable, real-world web applications and love turning ideas into clean, usable products.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saravanakumar1912/">LinkedIn</a> •
+  <a href="https://saravanakumar-portfolio-sable.vercel.app/">Portfolio</a> •
+  <a href="saravanakumars3019@gmail.com ">Email</a>
+</p>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 B.Tech in Computer Science and Business Systems  
-- 💻 I build full-stack web applications and REST APIs  
-- 🚀 Interested in Software Developer / Full Stack roles  
-- 🌱 Currently learning advanced backend & system design  
+## 🚀 About Me
+- 🎓 B.Tech in Computer Science & Business Systems  
+- 💻 Java Full Stack Developer with strong backend focus  
+- 🧠 I enjoy system design, APIs, and solving real problems  
+- 🎯 Actively seeking Software Developer / Full Stack roles  
 
 ---
 
-### 🛠️ Tech Stack
+## 🧩 What I’m Good At
+- Designing RESTful APIs with **Spring Boot & Node.js**
+- Building responsive UIs using **React**
+- Working with **databases & authentication**
+- Writing clean, maintainable, production-style code
+
+---
+
+## 🛠️ Tech Arsenal
 
 **Frontend:**  
-HTML, CSS, JavaScript, React, Bootstrap  
+HTML • CSS • JavaScript • React • Bootstrap  
 
 **Backend:**  
-Node.js, Express.js, .NET Core, Java, Spring Boot  
+Java • Spring Boot • Node.js • Express.js • .NET Core  
 
 **Database:**  
-MongoDB, MySQL, SQL Server  
+MongoDB • MySQL • SQL Server  
 
-**Tools & Platforms:**  
-Git, GitHub, Postman, VS Code, Swagger  
+**Dev Tools:**  
+Git • GitHub • Postman • Swagger • VS Code  
 
-**Core Concepts:**  
-REST APIs, JWT Authentication, MVC Architecture, CRUD Operations  
-
----
-
-### 📌 Featured Projects
-- **CRM Application** – React, Node, MongoDB  
-- **E-Commerce Website** – Full stack shopping app  
-- **Portfolio Website** – Personal responsive site  
-- **Spring Boot REST API** – Java backend with CRUD operations  
+**Core Skills:**  
+REST APIs • JWT Auth • MVC • CRUD • OOP • System Design  
 
 ---
 
-### 🌐 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/saravanakumar1912/
-- Portfolio: https://saravanakumar-portfolio-sable.vercel.app/
-- Email: saravanakumars3019@gmail.com
+## 📌 Featured Work
+> A few projects I’m proud of:
+
+- **CRM Application** – Full stack customer management system  
+- **E-Commerce Platform** – Product, cart & order system  
+- **Spring Boot REST API** – Java backend with authentication  
+- **Personal Portfolio** – Responsive developer website  
+
+(Each project includes clean code, documentation & live demo)
+
+---
+
+## 📊 GitHub Activity
+![Saravanakumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saravanakumar0004&show_icons=true&theme=tokyonight)
+
+---
+
+## 🎯 Career Goal
+To work as a **Software Engineer / Java Full Stack Developer** in a company where I can:
+- Learn from experienced engineers  
+- Build impactful products  
+- Grow into a strong backend/system developer  
+
+---
+
+⭐ If you like my work, feel free to star my repositories!
