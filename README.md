@@ -31,8 +31,6 @@
 
 ## 🛠️ Tech Arsenal
 
-## 🛠️ Tech Arsenal
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,dotnet,html,css,js,mongodb,mysql,git,github,postman,swagger,vscode" />
 </p>
