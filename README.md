@@ -32,8 +32,9 @@
 ## 🛠️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,dotnet,html,css,js,mongodb,mysql,git,github,postman,swagger,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,dotnet,html,css,js,mongodb,mysql,git,github,postman,swagger,vscode,visualstudio" />
 </p>
+
 
 **Frontend:**  
 HTML • CSS • JavaScript • React • Bootstrap  
