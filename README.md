@@ -6,10 +6,17 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saravanakumar1912/">LinkedIn</a> •
-  <a href="https://saravanakumar-portfolio-sable.vercel.app/">Portfolio</a> •
-  <a href="saravanakumars3019@gmail.com ">Email</a>
+  <a href="https://www.linkedin.com/in/saravanakumar1912/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://saravanakumar-portfolio-sable.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:saravanakumars3019@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
