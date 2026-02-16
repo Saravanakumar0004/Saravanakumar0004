@@ -36,34 +36,6 @@
 </p>
 
 
-**Frontend:**  
-HTML • CSS • JavaScript • React • Bootstrap  
-
-**Backend:**  
-Java • Spring Boot • Node.js • Express.js • .NET Core  
-
-**Database:**  
-MongoDB • MySQL • SQL Server  
-
-**Dev Tools:**  
-Git • GitHub • Postman • Swagger • VS Code  
-
-
-**Frontend:**  
-HTML • CSS • JavaScript • React • Bootstrap  
-
-**Backend:**  
-Java • Spring Boot • Node.js • Express.js • .NET Core  
-
-**Database:**  
-MongoDB • MySQL • SQL Server  
-
-**Dev Tools:**  
-Git • GitHub • Postman • Swagger • VS Code  
-
-**Core Skills:**  
-REST APIs • JWT Auth • MVC • CRUD • OOP • System Design  
-
 ---
 
 ## 📌 Featured Work
