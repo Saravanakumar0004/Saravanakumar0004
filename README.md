@@ -50,11 +50,6 @@
 
 ---
 
-## 📊 GitHub Activity
-![Saravanakumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saravanakumar0004&show_icons=true&theme=tokyonight)
-
----
-
 ## 🎯 Career Goal
 To work as a **Software Engineer / Java Full Stack Developer** in a company where I can:
 - Learn from experienced engineers  
