@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saravanakumar S</h1>
 
 <h3 align="center">
-Java Full Stack Developer | Spring Boot | React | Node.js | .NET
+Full Stack Developer | Spring Boot | React | Node.js | .NET
 </h3>
 
 <p align="center">
