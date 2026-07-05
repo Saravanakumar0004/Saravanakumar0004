@@ -69,56 +69,59 @@ Passionate about solving real-world problems through clean code and modern techn
 
 # 💼 Featured Projects
 
-## 🚀 CRM Application
-✔ Customer Management System
 
-✔ Authentication
 
-✔ Dashboard
-
-✔ CRUD Operations
-
-✔ Responsive UI
+## 🚀 CRM Application for Engineering Works
+- 🔹 Customer Relationship Management System
+- 🔹 Employee & Client Management
+- 🔹 Project Tracking Dashboard
+- 🔹 Authentication & Authorization
+- 🔹 Responsive Full Stack Application
 
 ---
 
-## 🛒 E-Commerce Platform
-
-✔ Product Management
-
-✔ Shopping Cart
-
-✔ Order System
-
-✔ User Authentication
-
-✔ Admin Dashboard
+## 💉 IoT IV Infusion Monitoring System
+- 🔹 IoT-based Smart Healthcare Solution
+- 🔹 Real-time IV Fluid Monitoring
+- 🔹 Alerts & Notifications
+- 🔹 Patient Monitoring Dashboard
+- 🔹 Sensor Data Integration
 
 ---
 
-## 🌾 Farmer-to-Customer Direct Contact Portal
-
-✔ Direct Communication
-
-✔ Product Listings
-
-✔ Import & Export Support
-
-✔ Secure Login
-
-✔ REST APIs
+## 🎒 Lost & Found Web Portal Inside the Campus
+- 🔹 Campus Lost & Found Management
+- 🔹 Report Lost & Found Items
+- 🔹 Student Authentication
+- 🔹 Search & Claim Items
+- 🔹 Easy Communication Between Users
 
 ---
 
-## 🌐 Personal Portfolio
+## 🌾 Agro Connect
+- 🔹 Farmer-to-Customer Platform
+- 🔹 Product Listing & Management
+- 🔹 Direct Buyer Communication
+- 🔹 Agriculture Marketplace
+- 🔹 Responsive Web Interface
 
-✔ Responsive Design
+---
 
-✔ Project Showcase
+## ♻️ Smart Waste Management for Sustainable Communities
+- 🔹 Smart Waste Collection System
+- 🔹 Bin Monitoring Dashboard
+- 🔹 Sustainable Community Solution
+- 🔹 Data Visualization
+- 🔹 Modern Responsive UI
 
-✔ Contact Form
+---
 
-✔ Modern UI
+## 🩸 Decentralized Blood Donor Application
+- 🔹 Blood Donor & Recipient Platform
+- 🔹 Secure User Authentication
+- 🔹 Blood Availability Search
+- 🔹 Emergency Donor Notifications
+- 🔹 Decentralized Data Management
 
 ---
 
