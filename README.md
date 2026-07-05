@@ -123,17 +123,7 @@ Passionate about solving real-world problems through clean code and modern techn
 - 🔹 Emergency Donor Notifications
 - 🔹 Decentralized Data Management
 
----
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saravanakumar1912&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saravanakumar1912&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
