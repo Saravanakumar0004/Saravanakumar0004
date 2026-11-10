@@ -1,229 +1,136 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=150&section=header&text=saravanakumar-api&fontSize=46&fontColor=58a6ff&fontAlignY=45&desc=v1.0.0%20%7C%20Java%20Full%20Stack%20Developer%20%7C%20status%3A%20UP&descSize=16&descColor=8b949e&descAlignY=70" />
-
-```text
-  .   ____          _            __ _ _
- /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
-( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
- \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
-  '  |____| .__|_| |_|_| |_\__, | / / / /
- =========|_|==============|___/=/_/_/_/
- :: SaravanakumarApplication ::        (v1.0.0)
-
- Started SaravanakumarApplication in 0.8 seconds
- Tomcat started on port(s): 8080 (http)
- Profile active: developer | Mode: always-learning
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=240&section=header&text=Saravanakumar%20S&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=22&descColor=e0f2fe&descAlignY=58&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=780&lines=GET+%2Fapi%2Fdeveloper+%E2%86%92+200+OK;POST+%2Fapi%2Fprojects+%E2%86%92+201+Created;Building+REST+APIs+that+scale;docker+build+%26%26+kubectl+apply+%E2%86%92+deployed+%F0%9F%9A%80" alt="API typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=900&color=0EA5E9&center=true&vCenter=true&width=700&lines=Building+scalable+web+applications;Clean+code.+Reliable+systems.;From+database+to+user+interface;Open+to+new+opportunities" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://saravanakumar-portfolio-sable.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-58a6ff?style=flat-square&logo=vercel&logoColor=black" /></a>
-  <a href="https://www.linkedin.com/in/saravanakumar1912/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:saravanakumars3019@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Build-passing-3fb950?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open_to_work-yes-3fb950?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=Saravanakumar0004&label=Requests&color=58a6ff&style=flat-square" />
+  <a href="https://saravanakumar-portfolio-sable.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/saravanakumar1912/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:saravanakumars3019@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Saravanakumar0004&label=Profile%20Views&color=1e3a8a&style=for-the-badge" />
 </p>
 
 ---
 
-## 📋 `GET /actuator/health`
+## 👨‍💻 About
 
-```json
-{
-  "status": "UP",
-  "developer": "Saravanakumar S",
-  "role": "Java Full Stack Developer",
-  "education": "B.Tech - Computer Science & Business Systems",
-  "components": {
-    "backend":  { "status": "UP", "details": ["Java", "Spring Boot", "Node.js", ".NET"] },
-    "frontend": { "status": "UP", "details": ["React", "JavaScript", "HTML", "CSS"] },
-    "database": { "status": "UP", "details": ["MySQL", "MongoDB"] },
-    "devops":   { "status": "UP", "details": ["Git", "Docker"] },
-    "learning": { "status": "IN_PROGRESS", "details": ["Microservices", "Kubernetes", "AWS"] }
-  }
-}
-```
+I am a **Full Stack Developer** who builds secure, scalable and user-friendly web applications, covering everything from database design and REST APIs to responsive user interfaces.
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-## ⚙️ `application.yml`
+**🎓 Education**  
+B.Tech, Computer Science & Business Systems
 
-```yaml
-developer:
-  name: Saravanakumar S
-  role: Java Full Stack Developer
-  focus:
-    - REST API Development
-    - Database Design
-    - Clean Architecture
-    - System Design
-  goal: Build scalable products used by millions
-  motto: "Code. Learn. Build. Repeat."
+**💼 Role**  
+Full Stack Developer
 
-server:
-  port: 8080
+**🎯 Goal**  
+Build scalable products used by millions of people
 
-contact:
-  email: saravanakumars3019@gmail.com
-  open-to-work: true
-```
+    </td>
+    <td width="50%" valign="top">
+
+**⚡ Strengths**  
+REST APIs · Database Design · System Design · Clean Architecture
+
+**🌱 Learning**  
+Microservices · Docker · Kubernetes · AWS
+
+**💬 Motto**  
+*Code. Learn. Build. Repeat.*
+
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🔌 API Endpoints
+## 🧰 Tech Stack
 
-| Method | Endpoint | Description | Status |
-|:--:|:--|:--|:--:|
-| `GET` | `/api/developer/skills` | Java, Spring Boot, React, Node.js, .NET, MySQL, MongoDB | ![200](https://img.shields.io/badge/200-OK-3fb950?style=flat-square) |
-| `GET` | `/api/developer/projects` | 6 full stack and IoT projects (listed below) | ![200](https://img.shields.io/badge/200-OK-3fb950?style=flat-square) |
-| `POST` | `/api/developer/hire` | Open to Java Full Stack and Backend roles | ![201](https://img.shields.io/badge/201-Created-58a6ff?style=flat-square) |
-| `PUT` | `/api/developer/skills/learning` | Microservices, Docker, Kubernetes, AWS | ![202](https://img.shields.io/badge/202-Updating-d29922?style=flat-square) |
+<table>
+  <tr>
+    <td align="center" width="25%"><b>Frontend</b></td>
+    <td align="center" width="25%"><b>Backend</b></td>
+    <td align="center" width="25%"><b>Database</b></td>
+    <td align="center" width="25%"><b>DevOps & Tools</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap&perline=3" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,dotnet&perline=3" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=3" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,postman,swagger&perline=3" /></td>
+  </tr>
+</table>
 
 ---
 
-## 🏛 Layered Architecture I Follow
+## ⚙️ How I Build Applications
 
 ```mermaid
-sequenceDiagram
-    autonumber
-    participant C as React Client
-    participant CT as Controller
-    participant S as Service
-    participant R as Repository
-    participant DB as MySQL / MongoDB
-
-    C->>CT: HTTP Request + JWT
-    CT->>CT: Validate input
-    CT->>S: Call business logic
-    S->>R: Fetch / Save data
-    R->>DB: Query
-    DB-->>R: Result
-    R-->>S: Entity
-    S-->>CT: DTO
-    CT-->>C: JSON Response
+flowchart LR
+    A[Requirement] --> B[Database Design]
+    B --> C[REST API]
+    C --> D[Authentication]
+    D --> E[React Interface]
+    E --> F[Testing]
+    F --> G[Deployment]
 ```
 
 ---
 
-## 🗄 Typical Database Design
+## 🚀 Featured Projects
 
-```mermaid
-erDiagram
-    USER ||--o{ ROLE : has
-    USER ||--o{ PROJECT : manages
-    PROJECT ||--o{ TASK : contains
-    USER ||--o{ TASK : assigned
-
-    USER {
-        int id PK
-        string name
-        string email
-        string password
-    }
-    ROLE {
-        int id PK
-        string role_name
-    }
-    PROJECT {
-        int id PK
-        string title
-        string status
-    }
-    TASK {
-        int id PK
-        string description
-        date due_date
-    }
-```
+| Project | What it does | Key Features |
+|:--|:--|:--|
+| 🏗 **CRM for Engineering Works** | Customer relationship management system | Employee and client management, project tracking, authentication |
+| 💉 **IoT IV Infusion Monitoring** | Smart healthcare monitoring | Real-time monitoring, alerts, sensor data integration |
+| 🎒 **Campus Lost & Found Portal** | Lost and found management for campus | Student login, report, search and claim items |
+| 🌾 **Agro Connect** | Farmer-to-customer marketplace | Product listings, direct buyer communication |
+| ♻️ **Smart Waste Management** | Waste collection for communities | Bin monitoring dashboard, data visualization |
+| 🩸 **Decentralized Blood Donor App** | Connects donors and recipients | Secure authentication, blood search, emergency alerts |
 
 ---
 
-## 🚀 Project Modules
-
-| # | Module | Tech Focus | Key Features |
-|:--:|:--|:--|:--|
-| 1 | **CRM for Engineering Works** | Full Stack | Employee and client management, project tracking, auth and roles |
-| 2 | **IoT IV Infusion Monitoring** | IoT + Web | Real-time fluid monitoring, alerts, sensor integration |
-| 3 | **Campus Lost & Found Portal** | Web | Student login, report, search and claim items |
-| 4 | **Agro Connect** | Web | Farmer-to-customer marketplace, direct buyer communication |
-| 5 | **Smart Waste Management** | Web + Data | Bin monitoring dashboard, data visualization |
-| 6 | **Decentralized Blood Donor App** | Web + Security | Secure auth, blood search, emergency notifications |
-
----
-
-## 🐳 Deployment Pipeline (Learning)
-
-```dockerfile
-# Dockerfile
-FROM eclipse-temurin:17-jre
-WORKDIR /app
-COPY target/app.jar app.jar
-EXPOSE 8080
-ENTRYPOINT ["java", "-jar", "app.jar"]
-```
-
-```bash
-docker build -t saravanakumar/app:1.0 .
-docker run -p 8080:8080 saravanakumar/app:1.0
-kubectl apply -f deployment.yaml
-```
-
----
-
-## 📜 `git log --oneline` (Learning Path)
-
-```text
-a1f4c92 (HEAD -> main) Learning: AWS Cloud
-7be03d1 Learning: Kubernetes orchestration
-c92e8a7 Learning: Docker containerization
-4d1b6f0 Learning: Microservices architecture
-9e3a7c5 Built: Spring Boot REST APIs with JWT
-2f8d1b4 Built: React full stack applications
-b6c0e93 Started: Java, OOP and DSA
-```
-
----
-
-## 📊 Metrics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Saravanakumar0004&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saravanakumar0004&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Saravanakumar0004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saravanakumar0004&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Saravanakumar0004&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Saravanakumar0004&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saravanakumar0004&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saravanakumar0004&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 🛠 Dependencies (`pom.xml` style)
+## 📚 Currently Focused On
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,dotnet,html,css,js,bootstrap,mysql,mongodb,git,github,docker,kubernetes,postman,swagger,vscode,visualstudio&perline=10" />
-</p>
+- Full stack web applications with React and Node.js
+- Building and securing REST APIs
+- Docker and Kubernetes
+- AWS cloud services
+- System design and open source contributions
 
 ---
 
-## 📫 `POST /api/contact`
+## 📫 Let's Connect
 
-```http
-POST /api/contact HTTP/1.1
-Host: saravanakumar-portfolio-sable.vercel.app
-Content-Type: application/json
+<p align="center">
+  Open to full stack opportunities, collaborations and open source work.
+</p>
 
-{
-  "to": "saravanakumars3019@gmail.com",
-  "linkedin": "linkedin.com/in/saravanakumar1912",
-  "message": "Let's build something scalable together."
-}
-```
+<p align="center">
+  📧 <b>saravanakumars3019@gmail.com</b><br>
+  🌐 <a href="https://saravanakumar-portfolio-sable.vercel.app/">saravanakumar-portfolio-sable.vercel.app</a><br>
+  💼 <a href="https://www.linkedin.com/in/saravanakumar1912/">linkedin.com/in/saravanakumar1912</a>
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=80&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a8a,100:0f172a&height=110&section=footer" />
