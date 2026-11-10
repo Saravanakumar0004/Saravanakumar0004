@@ -1,200 +1,106 @@
-<h1 align="center">Hi 👋, I'm Saravanakumar S</h1>
-
-<h3 align="center">
-Full Stack Developer | Spring Boot | React | Node.js | .NET
-</h3>
+<!-- Header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Saravanakumar%20S&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React&descSize=18&descAlignY=58&animation=fadeIn" />
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Backend+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Building+scalable+and+secure+web+applications;Java+%7C+Spring+Boot+%7C+React+%7C+Node.js;Clean+code.+Real-world+solutions.;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 <p align="center">
-I build scalable, secure and user-friendly web applications.<br>
-Passionate about solving real-world problems through clean code and modern technologies.
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/saravanakumar1912/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://saravanakumar-portfolio-sable.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:saravanakumars3019@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://saravanakumar-portfolio-sable.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/saravanakumar1912/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:saravanakumars3019@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Saravanakumar0004&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 **B.Tech - Computer Science & Business Systems**
+```java
+public class Saravanakumar {
 
-💼 Java Full Stack Developer
+    String role      = "Full Stack Developer";
+    String education = "B.Tech - Computer Science & Business Systems";
+    String focus     = "Backend Development, REST APIs, Database Design";
+    String[] learning = {"Microservices", "Docker", "Kubernetes", "AWS"};
+    String goal      = "Build scalable products used by millions";
 
-🌱 Currently Learning
-- Microservices
-- Docker
-- Kubernetes
-- AWS Cloud
+    public String motto() {
+        return "Code. Learn. Build. Repeat.";
+    }
+}
+```
 
-💻 Passionate About
-- Backend Development
-- REST APIs
-- Database Design
-- System Design
-- Clean Architecture
-
-🎯 Goal
-> To become a Software Engineer who builds scalable products used by millions.
+I build scalable, secure and user-friendly web applications, and I enjoy turning real-world problems into clean, maintainable software.
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,dotnet" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+**DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,postman,swagger,vscode,visualstudio" />
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Highlights |
+|---|---|---|
+| 🏗 **CRM for Engineering Works** | Customer Relationship Management system | Employee & client management, project tracking, auth & roles |
+| 💉 **IoT IV Infusion Monitoring** | Smart healthcare monitoring solution | Real-time fluid monitoring, alerts, sensor integration |
+| 🎒 **Campus Lost & Found Portal** | Web portal for lost and found items | Student login, report / search / claim items |
+| 🌾 **Agro Connect** | Farmer-to-customer marketplace | Product listings, direct buyer communication |
+| ♻️ **Smart Waste Management** | Waste collection for sustainable communities | Bin monitoring dashboard, data visualization |
+| 🩸 **Decentralized Blood Donor App** | Donor and recipient platform | Secure auth, blood search, emergency notifications |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Saravanakumar0004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saravanakumar0004&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,dotnet,html,css,js,bootstrap,mongodb,mysql,git,github,postman,swagger,vscode,visualstudio,docker,kubernetes" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Saravanakumar0004&theme=tokyonight&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saravanakumar0004&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-# 💼 Featured Projects
+## 🌱 Currently Working On
 
-
-
-## 🚀 CRM Application for Engineering Works
-- 🔹 Customer Relationship Management System
-- 🔹 Employee & Client Management
-- 🔹 Project Tracking Dashboard
-- 🔹 Authentication & Authorization
-- 🔹 Responsive Full Stack Application
+- ☕ Spring Boot REST APIs and clean architecture
+- ⚛️ React applications
+- 🐳 Docker and Kubernetes
+- ☁️ AWS Cloud
+- 🧩 System design and open source contributions
 
 ---
 
-## 💉 IoT IV Infusion Monitoring System
-- 🔹 IoT-based Smart Healthcare Solution
-- 🔹 Real-time IV Fluid Monitoring
-- 🔹 Alerts & Notifications
-- 🔹 Patient Monitoring Dashboard
-- 🔹 Sensor Data Integration
+## 📫 Let's Connect
 
----
+I'm open to Java Full Stack and Backend opportunities, collaborations and open source work.
 
-## 🎒 Lost & Found Web Portal Inside the Campus
-- 🔹 Campus Lost & Found Management
-- 🔹 Report Lost & Found Items
-- 🔹 Student Authentication
-- 🔹 Search & Claim Items
-- 🔹 Easy Communication Between Users
+- 📧 **Email:** saravanakumars3019@gmail.com
+- 🌐 **Portfolio:** [saravanakumar-portfolio-sable.vercel.app](https://saravanakumar-portfolio-sable.vercel.app/)
+- 💼 **LinkedIn:** [linkedin.com/in/saravanakumar1912](https://www.linkedin.com/in/saravanakumar1912/)
 
----
-
-## 🌾 Agro Connect
-- 🔹 Farmer-to-Customer Platform
-- 🔹 Product Listing & Management
-- 🔹 Direct Buyer Communication
-- 🔹 Agriculture Marketplace
-- 🔹 Responsive Web Interface
-
----
-
-## ♻️ Smart Waste Management for Sustainable Communities
-- 🔹 Smart Waste Collection System
-- 🔹 Bin Monitoring Dashboard
-- 🔹 Sustainable Community Solution
-- 🔹 Data Visualization
-- 🔹 Modern Responsive UI
-
----
-
-## 🩸 Decentralized Blood Donor Application
-- 🔹 Blood Donor & Recipient Platform
-- 🔹 Secure User Authentication
-- 🔹 Blood Availability Search
-- 🔹 Emergency Donor Notifications
-- 🔹 Decentralized Data Management
-
-
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Saravanakumar1912&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saravanakumar1912&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# ⚙ Tools & Platforms
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,swagger,mysql,mongodb,docker,kubernetes,firebase,figma"/>
-
-</p>
-
----
-
-# 📚 Currently Working On
-
-- Java Full Stack Projects
-- Spring Boot REST APIs
-- React Applications
-- Docker & Kubernetes
-- AWS Cloud
-- System Design
-- Open Source Contributions
-
----
-
-# 📫 Reach Me
-
-📧 Email:
-**saravanakumars3019@gmail.com**
-
-🌐 Portfolio:
-**https://saravanakumar-portfolio-sable.vercel.app/**
-
-💼 LinkedIn:
-**linkedin.com/in/saravanakumar1912**
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Saravanakumar1912&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
-
-<h3 align="center">
-
-⭐ Thanks for visiting my GitHub Profile ⭐
-
-*"Code. Learn. Build. Repeat."*
-
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
